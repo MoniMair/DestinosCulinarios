@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "El Buen Gusto",
+        "tipo_cocina": "Regional",
+        "ingredientes": "Carne Cortada a Cuchillo, Papa",
+        "precio_minimo": 300,
+        "precio_maximo": 500,
+        "popularidad": 10.00,
+        "disponibilidad": true,
+        "id_ubicacion": 1,
+        "imagen": "fdkena.sh/img.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Fiamma",
+        "tipo_cocina": "Pizzeria",
+        "ingredientes": "Harina, Queso, Jamon",
+        "precio_minimo": 3000,
+        "precio_maximo": 400,
+        "popularidad": 10.00,
+        "disponibilidad": true,
+        "id_ubicacion": 2,
+        "imagen": "fdkena.sh/img.jpg"
+    },  
+    {
+        "id": 3,
+        "nombre": "La Casona del Molino",
+        "tipo_cocina": "Regional",
+        "ingredientes": "Harina, Queso, Jamon",
+        "precio_minimo": 3000,
+        "precio_maximo": 400,
+        "popularidad": 10.00,
+        "disponibilidad": true,
+        "id_ubicacion": 2,
+        "imagen": "fdkena.sh/img.jpg"
+    }, 
+    {
+        "id": 4,
+        "nombre": "El Charrua",
+        "tipo_cocina": "Parrillada",
+        "ingredientes": "Carne",
+        "precio_minimo": 3000,
+        "precio_maximo": 400,
+        "popularidad": 10.00,
+        "disponibilidad": true,
+        "id_ubicacion": 2,
+        "imagen": "fdkena.sh/img.jpg"
+    }    
+]

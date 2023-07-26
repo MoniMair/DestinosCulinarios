@@ -1,0 +1,32 @@
+[
+    {
+        "titulo": "The Witcher 3: Wild Hunt",
+        "genero": "RPG",
+        "plataforma": "PC, PS4, Xbox One",
+        "anio": 2015
+    },
+    {
+        "titulo": "Red Dead Redemption 2",
+        "genero": "Action-Adventure",
+        "plataforma": "PC, PS4, Xbox One",
+        "anio": 2018
+    },
+    {
+        "titulo": "The Legend of Zelda: Breath of the Wild",
+        "genero": "Action-Adventure",
+        "plataforma": "Nintendo Switch",
+        "anio": 2017
+    },
+    {
+        "titulo": "The Last of Us",
+        "genero": "Action-Adventure",
+        "plataforma": "PS3, PS4",
+        "anio": 2013
+    },
+    {
+        "titulo": "God of War",
+        "genero": "Action-Adventure",
+        "plataforma": "PS4",
+        "anio": 2018
+    }
+]
